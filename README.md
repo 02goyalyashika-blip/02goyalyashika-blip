@@ -2,35 +2,40 @@
 
 **Economics Graduate | Brand Strategy | Consumer Insights | Marketing**
 
-I enjoy translating consumer behavior into strategic brand ideas. My work focuses on consumer insight, innovation strategy, and building commercially viable concepts for beauty and consumer brands.
+I’m an Economics graduate from Shri Ram College of Commerce (SRCC) with a passion for turning consumer behavior into commercially viable brand ideas.
 
-Currently building a portfolio around **brand innovation, luxury beauty, and consumer strategy.**
+My work sits at the intersection of **consumer insights, innovation strategy, luxury beauty, and marketing**, where I enjoy translating research into concepts that solve real business problems.
+
+Currently building a portfolio around **brand innovation, beauty strategy, and circular business models.**
 
 ---
 
-## Featured Projects
+## Featured Project
 
 ### 🌟 L'Oréal Brandstorm 2026 — Velum
 
 A strategic innovation case study exploring how fragrance could evolve from projection to intimacy through a refill-driven luxury ecosystem.
 
-**Highlights**
+**What I contributed**
 
 - Consumer Insight
-- Innovation Strategy
-- Business Model Design
-- Go-to-Market
-- Luxury Branding
+- Concept Refinement
+- Product Visual Development
+- Business Strategy
+- Storytelling
 
-🔗 Repository: L-oreal-Brandstorm-2026
+➡️ **Portfolio:**  
+https://github.com/02goyalyashika-blip/L-oreal-Brandstorm-2026
 
 ---
+
+## What's Coming Next
 
 ### ♻ BEAUTY&YOU Innovation Project
 
 A circular beauty concept exploring how premium beauty brands can transform empty-product behavior into a scalable refill ecosystem.
 
-*(Portfolio case study coming soon.)*
+*(Currently being converted into a portfolio case study.)*
 
 ---
 
@@ -39,11 +44,11 @@ A circular beauty concept exploring how premium beauty brands can transform empt
 - Consumer Insight
 - Brand Strategy
 - Market Analysis
-- Go-to-Market
 - Innovation Strategy
+- Go-to-Market
+- Business Strategy
 - Storytelling
 - Presentation Design
-- Business Strategy
 
 ---
 
@@ -51,13 +56,12 @@ A circular beauty concept exploring how premium beauty brands can transform empt
 
 - Luxury Beauty Strategy
 - Consumer Research
-- Marketing Innovation
 - FMCG Brand Management
 - Product Strategy
+- Marketing Innovation
 
 ---
 
 ## Let's Connect
 
-- LinkedIn
-- GitHub Projects
+💼 LinkedIn: *(We'll add your final LinkedIn URL in the next step.)*
