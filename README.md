@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-banner.png" width="100%">
+</p>
+
 # Hi, I'm Yashika Goyal 👋
 
 **Economics Graduate | Brand Strategy | Consumer Insights | Marketing**
@@ -10,13 +14,13 @@ Currently building a portfolio around **brand innovation, beauty strategy, and c
 
 ---
 
-## Featured Project
+## ⭐ Featured Project
 
-### 🌟 L'Oréal Brandstorm 2026 — Velum
+### L'Oréal Brandstorm 2026 — Velum
 
-A strategic innovation case study exploring how fragrance could evolve from projection to intimacy through a refill-driven luxury ecosystem.
+> Reimagining fragrance from projection to intimacy through a refill-driven luxury ecosystem.
 
-**What I contributed**
+**My contribution**
 
 - Consumer Insight
 - Concept Refinement
@@ -24,31 +28,28 @@ A strategic innovation case study exploring how fragrance could evolve from proj
 - Business Strategy
 - Storytelling
 
-➡️ **Portfolio:**  
-https://github.com/02goyalyashika-blip/L-oreal-Brandstorm-2026
+**→ Explore the case study**
 
+https://github.com/02goyalyashika-blip/L-oreal-Brandstorm-2026
 ---
 
-## What's Coming Next
+## ♻ Coming Soon
 
-### ♻ BEAUTY&YOU Innovation Project
+### BEAUTY&YOU Innovation Project
 
 A circular beauty concept exploring how premium beauty brands can transform empty-product behavior into a scalable refill ecosystem.
 
-*(Currently being converted into a portfolio case study.)*
-
+*Portfolio case study coming soon.*
 ---
 
 ## Skills
 
-- Consumer Insight
-- Brand Strategy
-- Market Analysis
-- Innovation Strategy
-- Go-to-Market
-- Business Strategy
-- Storytelling
-- Presentation Design
+![Consumer Insight](https://img.shields.io/badge/Consumer%20Insight-E8DCC6?style=for-the-badge)
+![Brand Strategy](https://img.shields.io/badge/Brand%20Strategy-111111?style=for-the-badge)
+![Market Analysis](https://img.shields.io/badge/Market%20Analysis-C9A66B?style=for-the-badge)
+![Innovation Strategy](https://img.shields.io/badge/Innovation%20Strategy-1F2937?style=for-the-badge)
+![Go-To-Market](https://img.shields.io/badge/Go--To--Market-6B7280?style=for-the-badge)
+![Storytelling](https://img.shields.io/badge/Storytelling-B08D57?style=for-the-badge)
 
 ---
 
@@ -64,4 +65,8 @@ A circular beauty concept exploring how premium beauty brands can transform empt
 
 ## Let's Connect
 
-💼 LinkedIn: *(We'll add your final LinkedIn URL in the next step.)*
+💼 LinkedIn: *(https://www.linkedin.com/in/yashika-goyal-91aa761b1/)*
+
+📂 Portfolio: L-Oréal Brandstorm 2026 Case Study
+
+📍 Delhi, India
