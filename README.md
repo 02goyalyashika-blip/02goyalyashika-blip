@@ -28,7 +28,7 @@ Building a portfolio that combines corporate innovation (L'Oréal Brandstorm), e
 
 **→ Explore the case study**
 
-https://github.com/02goyalyashika-blip/L-oreal-Brandstorm-2026
+➡️ **[View the L'Oréal Brandstorm Portfolio Case Study](https://github.com/02goyalyashika-blip/L-oreal-Brandstorm-2026)**
 ---
 
 ## ♻ Coming Soon
