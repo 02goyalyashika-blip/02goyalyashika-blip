@@ -14,8 +14,6 @@ Building a portfolio that combines corporate innovation (L'Oréal Brandstorm), e
 
 ## Featured Project
 
-*My flagship consumer innovation case study.*
-
 ### L'Oréal Brandstorm 2026 — Velum
 
 > Reimagining fragrance from projection to intimacy through a refill-driven luxury ecosystem.
