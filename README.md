@@ -10,7 +10,7 @@ I’m an Economics graduate from Shri Ram College of Commerce (SRCC) with a pass
 
 My work sits at the intersection of **consumer insights, innovation strategy, luxury beauty, and marketing**, where I enjoy translating research into concepts that solve real business problems.
 
-Currently building a portfolio around **brand innovation, beauty strategy, and circular business models.**
+Building a portfolio that combines corporate innovation (L'Oréal Brandstorm), entrepreneurial thinking (BEAUTY&YOU), and consumer-driven brand strategy.
 
 ---
 
@@ -65,8 +65,14 @@ A circular beauty concept exploring how premium beauty brands can transform empt
 
 ## Let's Connect
 
-💼 LinkedIn: *(https://www.linkedin.com/in/yashika-goyal-91aa761b1/)*
+💼 LinkedIn: [yashika-goyal-91aa761b1](https://www.linkedin.com/in/yashika-goyal-91aa761b1/)
 
 📂 Portfolio: L-Oréal Brandstorm 2026 Case Study
 
 📍 Delhi, India
+
+---
+
+## A Thought I Work By
+
+> *I believe the strongest brands don't begin with products—they begin with understanding people. My goal is to turn consumer insight into strategies that create lasting business impact.*
