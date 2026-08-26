@@ -12,7 +12,9 @@ Building a portfolio that combines corporate innovation (L'Oréal Brandstorm), e
 
 ---
 
-## ⭐ Featured Project
+## Featured Project
+
+*My flagship consumer innovation case study.*
 
 ### L'Oréal Brandstorm 2026 — Velum
 
@@ -37,10 +39,10 @@ Building a portfolio that combines corporate innovation (L'Oréal Brandstorm), e
 
 A circular beauty concept exploring how premium beauty brands can transform empty-product behavior into a scalable refill ecosystem.
 
-*Portfolio case study coming soon.*
+Currently being developed into a portfolio-ready case study documenting consumer validation, circular business strategy, and implementation planning.
 ---
 
-## Skills
+## Core Capabilities
 
 ![Consumer Insight](https://img.shields.io/badge/Consumer%20Insight-E8DCC6?style=for-the-badge)
 ![Brand Strategy](https://img.shields.io/badge/Brand%20Strategy-111111?style=for-the-badge)
