@@ -4,19 +4,19 @@
 
 **Economics Graduate | Brand Strategy | Consumer Insights | Marketing**
 
-I’m an Economics graduate from Shri Ram College of Commerce (SRCC) with a passion for turning consumer behavior into commercially viable brand ideas.
+I’m an Economics graduate from Shri Ram College of Commerce (SRCC) with a passion for turning consumer behaviour into commercially viable brand ideas.
 
 My work sits at the intersection of **consumer insights, innovation strategy, luxury beauty, and marketing**, where I enjoy translating research into concepts that solve real business problems.
 
-Building a portfolio that combines corporate innovation (L'Oréal Brandstorm), entrepreneurial thinking (BEAUTY&YOU), and consumer-driven brand strategy.
+This portfolio brings together two flagship case studies: **corporate innovation** through L'Oréal Brandstorm and **entrepreneurial strategy** through BEAUTY&YOU.
 
 ---
 
-## Featured Project
+## Featured Case Studies
 
-### L'Oréal Brandstorm 2026 — Velum
+### 01 — L'Oréal Brandstorm 2026: Velum
 
-> Reimagining fragrance from projection to intimacy through a refill-driven luxury ecosystem.
+> Reimagining fragrance from projection to intimacy through an infusion-first luxury ritual.
 
 **My contribution**
 
@@ -26,18 +26,26 @@ Building a portfolio that combines corporate innovation (L'Oréal Brandstorm), e
 - Business Strategy
 - Storytelling
 
-**→ Explore the case study**
+➡️ **[Explore the L'Oréal Brandstorm Portfolio Case Study](https://github.com/02goyalyashika-blip/L-oreal-Brandstorm-2026)**
 
-➡️ **[View the L'Oréal Brandstorm Portfolio Case Study](https://github.com/02goyalyashika-blip/L-oreal-Brandstorm-2026)**
 ---
 
-## ♻ Coming Soon
+### 02 — BEAUTY&YOU: The Beauty That Never Ends
 
-### BEAUTY&YOU Innovation Project
+> A Circular Beauty Infrastructure concept exploring how brands, consumers, retailers and circularity partners can stay connected after purchase.
 
-A circular beauty concept exploring how premium beauty brands can transform empty-product behavior into a scalable refill ecosystem.
+**My work**
 
-Currently being developed into a portfolio-ready case study documenting consumer validation, circular business strategy, and implementation planning.
+- Market Research
+- Consumer Research
+- Strategic Reframing
+- MVP Design
+- Business Model Design
+
+➡️ **[Explore the BEAUTY&YOU Portfolio Case Study](https://github.com/02goyalyashika-blip/Beauty-You)**
+
+➡️ **[View the Portfolio Index](PORTFOLIO_INDEX.md)**
+
 ---
 
 ## Core Capabilities
@@ -46,7 +54,7 @@ Currently being developed into a portfolio-ready case study documenting consumer
 ![Brand Strategy](https://img.shields.io/badge/Brand%20Strategy-111111?style=for-the-badge)
 ![Market Analysis](https://img.shields.io/badge/Market%20Analysis-C9A66B?style=for-the-badge)
 ![Innovation Strategy](https://img.shields.io/badge/Innovation%20Strategy-1F2937?style=for-the-badge)
-![Go-To-Market](https://img.shields.io/badge/Go--To--Market-6B7280?style=for-the-badge)
+![Business Model](https://img.shields.io/badge/Business%20Model%20Design-6B7280?style=for-the-badge)
 ![Storytelling](https://img.shields.io/badge/Storytelling-B08D57?style=for-the-badge)
 
 ---
@@ -65,7 +73,7 @@ Currently being developed into a portfolio-ready case study documenting consumer
 
 💼 LinkedIn: [yashika-goyal-91aa761b1](https://www.linkedin.com/in/yashika-goyal-91aa761b1/)
 
-📂 Portfolio: L-Oréal Brandstorm 2026 Case Study
+📂 [Portfolio Index](PORTFOLIO_INDEX.md)
 
 📍 Delhi, India
 
