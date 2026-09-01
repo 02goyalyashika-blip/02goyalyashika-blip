@@ -10,7 +10,8 @@ Two flagship case studies anchor my portfolio. They demonstrate complementary st
 
 A team-developed concept exploring how fragrance could move from projection to intimacy through an infusion-first ritual.
 
-**My contribution:** Consumer Insight · Concept Refinement · Product Visual Development · Business Strategy · Storytelling
+**My contribution:** Consumer Insight · Concept Refinement · Product Visual Development · Business Strategy · Storytelling  
+**Tools used:** Canva · AI-assisted ideation, research synthesis and creative development
 
 → [Explore the case study](https://github.com/02goyalyashika-blip/L-oreal-Brandstorm-2026)
 
@@ -20,7 +21,8 @@ A team-developed concept exploring how fragrance could move from projection to i
 
 A Circular Beauty Infrastructure concept exploring how brands, consumers, retailers and circularity partners could stay connected after purchase.
 
-**My work:** Market Research · Consumer Research · Strategic Reframing · MVP Design · Business Model Design
+**My work:** Market Research · Consumer Research · Strategic Reframing · MVP Design · Business Model Design  
+**Tools used:** AI-assisted market research · creative exploration · innovation development · strategic reframing
 
 → [Explore the case study](https://github.com/02goyalyashika-blip/Beauty-You)
 
