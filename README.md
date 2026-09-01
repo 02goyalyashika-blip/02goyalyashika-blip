@@ -26,6 +26,8 @@ This portfolio brings together two flagship case studies: **corporate innovation
 - Business Strategy
 - Storytelling
 
+**Tools used:** Canva · AI-assisted ideation, research synthesis and creative development
+
 ➡️ **[Explore the L'Oréal Brandstorm Portfolio Case Study](https://github.com/02goyalyashika-blip/L-oreal-Brandstorm-2026)**
 
 ---
@@ -41,6 +43,8 @@ This portfolio brings together two flagship case studies: **corporate innovation
 - Strategic Reframing
 - MVP Design
 - Business Model Design
+
+**Tools used:** AI-assisted market research · creative exploration · innovation development · strategic reframing
 
 ➡️ **[Explore the BEAUTY&YOU Portfolio Case Study](https://github.com/02goyalyashika-blip/Beauty-You)**
 
